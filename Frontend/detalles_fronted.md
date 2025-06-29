@@ -367,10 +367,10 @@ cd /ruta/a/tu/proyecto
   [http://localhost:5173](http://localhost:5173)
 
 - `npm run build`  
-  Compila la aplicación para producción (optimiza y minimiza archivos).
+  Compila la aplicación para producción (optimiza y minimiza archivos) (opcional).
 
 - `npm run preview`  
-  Previsualiza el build de producción localmente.
+  Previsualiza el build de producción localmente. (opcional)
 
 
 ---

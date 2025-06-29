@@ -1,32 +1,24 @@
-Objetivo : se me solicito una api rest full para productos.
+# API RESTful de Productos
 
-Se creo un proyecto en nodejs con el franwork de express js 
-de tipo module para apobechar todas las ventajas de ECMAScript.
+## 🏁 Objetivo
 
-Tiene un archivo principal en la raiz del proyecto que contiene la logica
-y configuracion de la api en javascript (index.js).
+Se solicitó una API RESTful para la gestión de productos.
 
-Tiene un archivo .environment para configuracion de puerto y datos locales (.env).
-Tiene un achivo llamado packge.json donde se define la configuracion basica del proyecto.
-Tiene un archivo packge-lock.json donde se almacenan los registros de paquetes y sus versiones instaladas.
-Tiene una carpeta data dode eh dejado el json de datos de procutos.
-Por ultimo esta la carpeta node_module que se genera al instalar las dependecia del proyecto.
+## ⚙️ Tecnologías
 
-En el archivo index.js deje linea por linea la explicacion del codigo
-En el archivo productos no puedo dejar comentarios, basicamente por que debe manejar la estructura de un archivo json donde cargue el listado de prodcutos mock o mockeados.
+El proyecto fue desarrollado en **Node.js** utilizando el framework **Express.js**.  
+Está configurado como un módulo (`"type": "module"`) para aprovechar todas las ventajas de ECMAScript moderno.
 
-Para correr esta api debes ejecutar los comandos:
-npm install   --> si adjunto la carpeta node_module no hace falta
-luego tendras que ejecutar por consola :
-node index.js  --> desde la raiz del proyecto
+## 📁 Estructura del Proyecto
 
-Desde un postmant o con un curl pueden probar la api utilizando la url y el path del metodo creado:
+- `index.js`: Archivo principal con la lógica y configuración de la API.
+- `.env`: Variables de entorno (como el puerto del servidor).
+- `package.json`: Configuración del proyecto, dependencias y scripts.
+- `package-lock.json`: Registro exacto de las versiones de los paquetes instalados.
+- `data/products.json`: Contiene una lista mock de productos.
+- `node_modules/`: Se genera automáticamente con las dependencias instaladas (no se sube al repositorio).
 
-GET http://localhost:3002/api/products
-curl --location 'http://localhost:3002/api/products'
-
-Dejo la estructura del proyecto con un tree (arbol del proyecto)
-
+```text
 API_REST_PRODUCTOS/
 ├── data/
 │   └── products.json
@@ -35,5 +27,22 @@ API_REST_PRODUCTOS/
 ├── package.json
 ├── package-lock.json
 └── node_modules/
+```text
 
-nota: debes tener instalado nodejs.
+## Cómo ejecutar la API
+
+Paso 1: Instalar dependencias
+
+npm install
+
+Paso 2: Iniciar el servidor
+
+node index.js
+
+Paso 3: Acceder a la API
+
+http://localhost:3002
+
+Paso 4: Probar el endpoint de productos
+
+curl --location 'http://localhost:3002/api/products'
