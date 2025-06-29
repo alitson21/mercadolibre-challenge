@@ -1,0 +1,7 @@
+# Ignorar node_modules de frontend y backend
+Backend/api_rest_productos/node_modules
+Frontend/detallemercadolibre/node_modules
+
+# Otros archivos comunes a ignorar
+*.env
+

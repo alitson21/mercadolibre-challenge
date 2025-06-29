@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "CarteraHombre",
+    "price": 29.99,
+    "description": "Cartera para hombre de cuero en diferentes colores y modelos, resistentes al agua y modernas",
+    "stock": 4,
+    "imagenA": "https://imgs.search.brave.com/DrUGnKDj3ZUB0Sod_sfJvHj_PS1EVg4-hcWJlTX5dWY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTA1/NjM5MDY1Ni9lcy9m/b3RvL2NhcnRlcmEu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWhvWC1mbzFwVGNQ/Vzhoc21CVW55NHpD/a1pyQ3lpaVgwZTZX/bjhiWF91aEU9",
+    "imagenB": "https://imgs.search.brave.com/SCqZW1-RVwaRA-DU4um4L3XsEiC1FXt5bhaLdwKglfw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvOTA2/OTYzMzgvZXMvZm90/by9ib2xzby1jb24t/ZGluZXJvLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1yb2ZN/TUpUUHhSUTE4MmU1/SkgyN0RXdk1TZE1s/cTE3dDVMVVQweWxr/ajVNPQ",
+    "imagenC": "https://imgs.search.brave.com/6GgMZt-diBMYWivL85G6GMW6HTeurN4wHIDQPmO8wXo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzM0MDgxODkxL3Iv/aWwvZTI3MTIxLzY3/MDY4NTI5NDIvaWxf/MzAweDMwMC42NzA2/ODUyOTQyX280bHcu/anBn",
+    "imagenD": "https://imgs.search.brave.com/PHdNslNbdEJK_Oo8zgyx2IFrNfahgdZKhJ2uCam4ydY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTgw/NzU2Mjk0L2VzL2Zv/dG8vYmlsbGV0ZXJh/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz11SUdqa05Kc3I1/dmE2b3ZSeXVDLXBm/WmN5a1o2TzdnUjA0/NUJ0Y0JkM21nPQ"
+  },
+  {
+    "id": 2,
+    "title": "CarteraFemenina",
+    "price": 49.99,
+    "description": "Cartera para dama de cuero en diferentes colores y modelos, resistentes al agua y modernas",
+    "stock": 12,
+    "imagenA": "https://imgs.search.brave.com/k2Ympvrv60_tPGPMgyLTk3IQ-5DXUfqklP9x8YulrDs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbXBo/b3JhLmNvbS5hci9j/ZG4vc2hvcC9maWxl/cy9BTEVNQU5JQTQw/MTA5MDYtMV9tZWRp/dW0uanBnP3Y9MTc0/NDMyNDkyMw",
+    "imagenB": "https://imgs.search.brave.com/0cEyxtql3HrFZCjlJmqMT89KV0J06dj5wcWhw2_CeTo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbXBo/b3JhLmNvbS5hci9j/ZG4vc2hvcC9maWxl/cy9GSU5MQU5ESUE0/MDEzNTA3LTFfbWVk/aXVtLmpwZz92PTE3/NDQzMjQ5MjQ",
+    "imagenC": "https://imgs.search.brave.com/0qhJ-1daznQ_NjBGWBFYlL4mKiJx36VlHBoHj1UpJvY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90cm9w/ZWEuY29tLmFyL3B1/Yi9tZWRpYS9jYXRh/bG9nL3Byb2R1Y3Qv/Y2FjaGUvYTkwOTQx/ODNjNTg3NzlmYjQ1/MjIxYWM0M2ZhZDBi/YTgvNy9mLzdmMzhi/NzRmY2M5YTljYmEx/ZTg2OTg0ZTlkNDk4/NDk2X2E2ODgwMDBp/Mzh0YV8xLmpwZw",
+    "imagenD": "https://imgs.search.brave.com/zdoez63wt5pGIzhIpU370k1OymTC6myYEXBZY86gKeg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90cm9w/ZWEuY29tLmFyL3B1/Yi9tZWRpYS9jYXRh/bG9nL3Byb2R1Y3Qv/Y2FjaGUvYTkwOTQx/ODNjNTg3NzlmYjQ1/MjIxYWM0M2ZhZDBi/YTgvNC80LzQ0ZTdm/MWU1NTkwODIxMmMw/MDU1ZmVkODAxZDFk/YjRlX2UyMDAxNTdx/MzhzdV8xLmpwZw"
+  }
+]

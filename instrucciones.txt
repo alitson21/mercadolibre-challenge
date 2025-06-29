@@ -1,0 +1,38 @@
+1. Frontend: 
+Diseño y funcionalidad de la página de artículos: 
+● Cree una página de detalles del artículo que imite la apariencia de MercadoLibre. 
+    La página debe mostrar información clave como: 
+        ● Imágenes del producto --DONE
+        ● Título y descripción --DONE 
+        ● Precio --DONE 
+        ● Métodos de pago --DONE 
+        ● Información del vendedor --DONE
+        ● Detalles adicionales (p. ej., calificaciones, reseñas o stock disponible) --DONE 
+        ● No se requieren recomendaciones --DONE
+        ● No se requiere lógica de pago --DONE 
+        ● Experiencia del usuario: --DONE
+            ● Asegúrese de que la página sea responsiva y fácil de usar. 
+            ● Stack: 
+                ● Puede usar cualquier tecnología o marco de frontend de su elección.
+
+
+2. Backend: 
+Desarrollo de API Puntos finales de la API:
+● Implemente una API RESTful que admita el frontend proporcionando los detalles necesarios del producto --DONE
+● El punto final principal debe obtener los detalles del producto 
+    Stack: 
+    ● Puede usar cualquier tecnología o marco de backend que elija 
+    ● No utilice bases de datos reales, persista todo en archivos JSON o CSV locales 
+    ● Requisitos no funcionales: 
+        Manejo adecuado de errores, documentado, al menos un 80% de cobertura de código
+        Uso de la herramienta Herramientas permitidas: 
+            Puede usar y se le recomienda usar herramientas GenAI, IDE de agentic y otras herramientas de asistencia de código para ayudar a generar ideas o código. 
+        Nota: El código final enviado debe reflejar su comprensión y modificaciones. 
+        Esté preparado para explicar la solución. 
+
+3. Documentación:
+    ● Junto con el envío de su código, incluya un documento breve (1-2 páginas) que: 
+        ● Explique sus elecciones de diseño. 
+        ● Describa los desafíos que enfrentó y cómo los abordó. 
+
+4. Envío Proporcione un enlace a su repositorio o una carpeta de proyecto comprimida. Debe contener un run.md que explique cómo ejecutar el proyecto.
